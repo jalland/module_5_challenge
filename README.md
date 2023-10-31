@@ -10,6 +10,7 @@ You'll need to use the [Day.js](https://day.js.org/en/) library to work with dat
 
 ## Screenshot
 
+<img width="568" alt="Screen Shot 2023-10-31 at 9 28 15 AM" src="https://github.com/jalland/module_5_challenge/assets/15932648/ba66ef47-02ba-406a-9f9f-a6d73f103a20">
 
 
 ## User Story
